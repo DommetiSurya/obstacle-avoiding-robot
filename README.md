@@ -1,5 +1,5 @@
 # obstacle-avoiding-robot
-Arduino-based obstacle-avoiding robot with Proteus circuit design and embedded firmware.
+Arduino-based obstacle-avoiding robot with Cirkit circuit design and embedded firmware.
 
 ## Circuit Files
 

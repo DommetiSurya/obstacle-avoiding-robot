@@ -1,5 +1,8 @@
-# obstacle-avoiding-robot
-Arduino-based obstacle-avoiding robot with Cirkit circuit design and embedded firmware.
+
+# Obstacle-Avoiding Robot
+
+An Arduino-based obstacle-avoiding robot project designed using Cirkit Designer. This repository contains the circuit diagram, Arduino firmware, and project documentation.
+
 
 ## Circuit Files
 

@@ -1,0 +1,8 @@
+
+# Firmware
+
+This folder contains the Arduino firmware for the obstacle-avoiding robot.
+
+Main source file: `obstacle_avoiding_robot.ino`
+
+The firmware reads distance measurements from the ultrasonic sensor and controls the motors through the motor driver.
